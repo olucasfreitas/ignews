@@ -11,7 +11,6 @@ export default class MyDocument extends Document {
             href="https://fonts.gstatic.com"
             crossOrigin=""
           />
-          <title>ig.news</title>
 
           <link
             href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap"
